@@ -149,37 +149,21 @@ footer p {
         header nav ul {
             right: 10%;
         }
-        section {
-            height: 600px;
-        }
         #home h1{
             font-size: 45px;
         }
         #home h2 {
             font-size: 35px;
         }
-        #home p {
-            font-size: 20px;
-        }
         #about h2 {
             font-size: 35px;
-        }
-        #about p {
-            font-size: 20px;
-        }
-        #about q {
-            font-size: 25px;
         }
         #contact h2 {
             font-size: 35px;
         }
-        #contact p {
-            font-size: 20px;
-        }
     }
     @media  (max-width: 480px) {
         #icone p a {
-            font-size: 50px;
             top: 3.5%;
             left: 10%;
         }
@@ -194,7 +178,6 @@ footer p {
         section {
             margin-left: 10%;
             margin-right: 10%;           
-            height: 600px;
         }
         #home h1{
             font-size: 30px;
@@ -210,9 +193,6 @@ footer p {
         }
         #about p {
             font-size: 15px;
-        }
-        #about q {
-            font-size: 25px;
         }
         #contact h2 {
             font-size: 20px;
