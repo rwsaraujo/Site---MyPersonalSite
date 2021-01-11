@@ -120,6 +120,16 @@ section {
     font-size: 25px;
     text-align: left;
 }
+#contato p a {
+    color: #000000;
+    text-decoration: none;
+    font-weight: bolder;
+}
+#contato p a:hover {
+    color: #000000;
+    text-shadow: 3px 3px 2px #000000;
+    transition: 0.3s;
+}
 /* Rodapé */
 footer p {
     text-align: center;
